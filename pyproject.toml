@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "src"
+version = "0.1.0"
+authors = [
+    {name = "Vladislav Stasenko", email = "stasenko.vladislav@fh-swf.de"},
+]
+description = "TBD"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3.9",
+]
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib"
+]
