@@ -63,35 +63,16 @@ For interim evaluation of the applied models, Shapley Additive explanations (SHA
 The aforementioned concept aims to develop an optimal predictive model to forecast the communication success of unpublished posts. Through Feature Engineering, the study will identify key words that contribute to communication excellence on LinkedIn. By leveraging this model and knowledge of impactful keywords, businesses can refine their approach and enhance engagement levels.
 
 # References
-1. Blei, DM, AY Ng & MI Jordan (2003). Latent dirichlet allocation. Journal of machine Learning
-research 3(Jan), 993–1022.
-2. Cabiddu, F, MD Carlo & G Piccoli (2014). Social media affordances: Enabling customer engagement.
-Annals of Tourism Research 48, 175–192. https://www.sciencedirect.com/science/
-article/pii/S0160738314000796.
-3. Hasan, M, A Rahman, MR Karim, MSI Khan & MJ Islam (2021). Normalized approach to find
-optimal number of topics in Latent Dirichlet Allocation (LDA). In: Proceedings of International
-Conference on Trends in Computational and Cognitive Engineering: Proceedings of TCCE 2020.
-Springer, pp.341–354.
-4. Khan, K, SU Rehman, K Aziz, S Fong & S Sarasvady (2014). DBSCAN: Past, present and future.
-In: The fifth international conference on the applications of digital information and web technologies
-(ICADIWT 2014). IEEE, pp.232–238.
-5. Leading countries based on LinkedIn audience size as of January 2023 (in millions) (n.d.). https :
-//www.statista.com/statistics/272783/linkedins-membership-worldwide-by-country.
-Accessed: 2023-07-22.
-6. Prokhorenkova, L, G Gusev, A Vorobev, AV Dorogush & A Gulin (2018). CatBoost: unbiased
-boosting with categorical features. Advances in neural information processing systems 31.
-7. Top Social Media Statistics And Trends Of 2023 (n.d.). https://www.forbes.com/advisor/business/
-social-media-statistics. Accessed: 2023-07-22.
-8. Van den Broeck, G, A Lykov, M Schleich & D Suciu (2022). On the tractability of SHAP explanations.
-Journal of Artificial Intelligence Research 74, 851–886.
-9. Yost, E, T Zhang & R Qi (2021). The power of engagement: Understanding active social media
-engagement and the impact on sales in the hospitality industry. Journal of Hospitality and
-Tourism Management 46, 83–95.
-10. Zhang, M, L Guo,MHu &WLiu (2017). Influence of customer engagement with company social
-networks on stickiness: Mediating effect of customer value creation. International Journal
-of Information Management 37(3), 229–240. https://www.sciencedirect.com/science/
-article/pii/S0268401216302195.
-
+1. Blei, DM, AY Ng & MI Jordan (2003). Latent dirichlet allocation. Journal of machine Learning research 3(Jan), 993–1022.
+2. Cabiddu, F, MD Carlo & G Piccoli (2014). Social media affordances: Enabling customer engagement. Annals of Tourism Research 48, 175–192. https://www.sciencedirect.com/science/article/pii/S0160738314000796.
+3. Hasan, M, A Rahman, MR Karim, MSI Khan & MJ Islam (2021). Normalized approach to find optimal number of topics in Latent Dirichlet Allocation (LDA). In: Proceedings of International Conference on Trends in Computational and Cognitive Engineering: Proceedings of TCCE 2020. Springer, pp.341–354.
+4. Khan, K, SU Rehman, K Aziz, S Fong & S Sarasvady (2014). DBSCAN: Past, present and future. In: The fifth international conference on the applications of digital information and web technologies (ICADIWT 2014). IEEE, pp.232–238.
+5. Leading countries based on LinkedIn audience size as of January 2023 (in millions) (n.d.). https://www.statista.com/statistics/272783/linkedins-membership-worldwide-by-country. Accessed: 2023-07-22.
+6. Prokhorenkova, L, G Gusev, A Vorobev, AV Dorogush & A Gulin (2018). CatBoost: unbiased boosting with categorical features. Advances in neural information processing systems 31.
+7. Top Social Media Statistics And Trends Of 2023 (n.d.). https://www.forbes.com/advisor/business/social-media-statistics. Accessed: 2023-07-22.
+8. Van den Broeck, G, A Lykov, M Schleich & D Suciu (2022). On the tractability of SHAP explanations. Journal of Artificial Intelligence Research 74, 851–886.
+9. Yost, E, T Zhang & R Qi (2021). The power of engagement: Understanding active social media engagement and the impact on sales in the hospitality industry. Journal of Hospitality and Tourism Management 46, 83–95.
+10. Zhang, M, L Guo,MHu &WLiu (2017). Influence of customer engagement with company social networks on stickiness: Mediating effect of customer value creation. International Journal of Information Management 37(3), 229–240. https://www.sciencedirect.com/science/article/pii/S0268401216302195.
 ------------
 Project Organization
 ------------
