@@ -7,10 +7,10 @@ __pycache__/
 *.so
 
 #Files ext
-.csv
+*.csv
 
 #catboost Info files
-catboost_info/
+catboost*info/
 
 # Distribution / packaging
 .Python
