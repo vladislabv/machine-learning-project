@@ -1,0 +1,2 @@
+1. Write a call to get all timestamps when a post was published
+2. Calculate add features on text, like Day of the Week, Published Date, Published Time, Length of content, topic (LDA), keywords
